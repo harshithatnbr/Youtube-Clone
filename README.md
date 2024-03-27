@@ -1,4 +1,4 @@
-#You tube Clone
+# You tube Clone
 - This is project made as a part of Namaste React course.
 - Developed a user-friendly replica of the YouTube platform with a focus on design using Tailwind CSS and Shimmer UI .
 - Integrated YouTube Data API for video information.
